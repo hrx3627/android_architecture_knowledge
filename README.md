@@ -3,7 +3,9 @@
 
 # 架构：
 组件化开发Demo：https://github.com/chsmy/ModuleDevelop/tree/master/app  
-谷歌架构实例：https://github.com/googlesamples/android-architecture
+谷歌架构实例：https://github.com/googlesamples/android-architecture    
+MVP架构实例：https://github.com/MindorksOpenSource/android-mvp-architecture    
+不错的Android架构资料：https://github.com/CameloeAnthony/AndroidArchitectureCollection
 
 # 组件：
 轮播图：https://github.com/youth5201314/banner
