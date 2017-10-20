@@ -14,3 +14,7 @@ MVP架构实例：https://github.com/MindorksOpenSource/android-mvp-architecture
 #  组件化开发
 得到APP组件化开发：http://www.jianshu.com/p/1b1d77f58e84    
 开源地址：https://github.com/luojilab/DDComponentForAndroid
+
+
+# 工具库
+加密解密工具：https://github.com/GcsSloop/encrypt
